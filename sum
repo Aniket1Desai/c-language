@@ -1,1 +1,10 @@
-
+#include<stdio.h>
+main()
+{
+int x,y,z;
+printf("get input");
+scanf("%d",&x);
+scanf("%d",&y);
+z=x+y;
+printf("z=",z);
+}
