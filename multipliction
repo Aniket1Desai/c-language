@@ -1,0 +1,9 @@
+#include<stdio.h>
+main()
+{
+int x,y;
+printf("enter the input")
+scamf("%d",&x);
+y=x*1;
+printf("y=%d",y);
+}
