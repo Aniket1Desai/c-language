@@ -2,8 +2,8 @@
 main()
 {
 int x,y;
-printf("enter the input")
-scamf("%d",&x);
+printf("enter the input");
+scanf("%d",&x);
 y=x*1;
 printf("y=%d",y);
 }
