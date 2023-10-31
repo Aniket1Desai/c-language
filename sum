@@ -6,5 +6,5 @@ printf("get input");
 scanf("%d",&x);
 scanf("%d",&y);
 z=x+y;
-printf("z=",z);
+printf("z=%d",z);
 }
